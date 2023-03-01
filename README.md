@@ -1,0 +1,2 @@
+# Cassandra
+Cassandra Commands Practice
